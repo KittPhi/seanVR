@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-17T12:40:16.215-06:00
+  initializedAtString: 2020-05-17T12:22:59.122-06:00
+  log:
+  - commitID: 1e5f764ce3428c499797cc476ec03b8642c689f8
+    mergeA: 
+    mergeB: 
+    authorName: KittPhi
+    authorEmail: kittphi@gmail.com
+    commitEmail: kittphi@gmail.com
+    commitName: KittPhi
+    summary: add gitignore and gitattribute
+    description: 
+    timeString: 2020-05-17T11:51:21.000-06:00
+    commitTimeString: 2020-05-17T11:51:21.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\seanVR\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\seanVR\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: D:\seanVR\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 07b520943ef2bb9f70150edc4b221dcafac25fef
+    mergeA: 
+    mergeB: 
+    authorName: Kitt Phi
+    authorEmail: 46500659+KittPhi@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-17T11:48:46.000-06:00
+    commitTimeString: 2020-05-17T11:48:46.000-06:00
+    changes:
+    - path: README.md
+      fullPath: D:\seanVR\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
